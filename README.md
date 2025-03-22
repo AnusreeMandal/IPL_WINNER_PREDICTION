@@ -3,7 +3,7 @@
 Comprehensive Analysis of IPL Data and Predictive Modeling of Match Outcomes Using Advanced Machine Learning Techniques to Uncover Trends, Evaluate Team Performance, and Predict the 2025 IPL Winner
 ## Screenshots
 
-![Screenshot]([https://your-image-url.com](https://drive.google.com/file/d/1o6lP4uqyiCiWUnKNkNP2K62rH4-m23OF/view?usp=sharing))
+![Screenshot](https://drive.google.com/file/d/1o6lP4uqyiCiWUnKNkNP2K62rH4-m23OF/view?usp=sharing))
 
 
 ## 🔍 Key Features  
